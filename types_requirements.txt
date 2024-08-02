@@ -1,5 +1,5 @@
 mypy
 types-requests
-types-pkg_resources
+types-setuptools
 types-PyYAML
 types-python-dateutil
