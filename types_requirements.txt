@@ -1,0 +1,5 @@
+mypy
+types-requests
+types-pkg_resources
+types-PyYAML
+types-python-dateutil
